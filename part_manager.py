@@ -69,7 +69,7 @@ def clear_text():
 
 
 # Main
-# main = Label(app, text='Willkommen', font=('Arial Bold', 50))
+# main = Label(app, text='Welcome Willkommen!', font=('Arial Bold', 50))
 # main.grid(row=10, column=0)
 # Repair Order
 repair_order_text = string
