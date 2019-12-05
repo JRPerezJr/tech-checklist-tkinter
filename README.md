@@ -1,4 +1,4 @@
-# Part Manager
+# BMW Tech Parts List Manager
 
 > Python/Tkinter desktop GUI app to manage BMW Technician's parts requests. This app uses Sqlite3 to store data
 
@@ -25,4 +25,5 @@ pyinstaller --onefile --add-binary='/System/Library/Frameworks/Tk.framework/Tk':
 - License: MIT
 - Starter Code Author: Brad Traversy
 - Custom Code Author: Juan R Perez
+
 # tech-checklist-tkinter
