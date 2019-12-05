@@ -68,9 +68,9 @@ def clear_text():
     price_entry.delete(0, END)
 
 
-# Main
-# main = Label(app, text='Welcome Willkommen!', font=('Arial Bold', 50))
-# main.grid(row=10, column=0)
+Main
+main = Label(app, text='Welcome Willkommen!', font=('Arial Bold', 50))
+main.grid(row=10, column=0)
 # Repair Order
 repair_order_text = string
 repair_order_label = Label(app, text='Repair Order',
